@@ -13,4 +13,4 @@ Caso deseje obter uma cópia local:
 Alex Almeida
 
 ## Licença
-[MIT License](LICENSE).
+[MIT License](LICENSE)
