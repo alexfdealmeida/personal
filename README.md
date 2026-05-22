@@ -9,7 +9,7 @@ Caso deseje obter uma cópia local:
   git clone https://github.com/alexfdealmeida/personal.git
   ```
   
-# Autor
+## Autor
 Alex Almeida
 
 ## Licença
